@@ -10,7 +10,7 @@ I am a second year student, very passionate about problem solving and coding. Cu
   ---
 ## EDUCATION
 | INSTITUTE | YEAR OF PASSING | DEGREE | GRADE |
-| :--: | :--: | :---: | :--: |
+| :--: | :--: | :--: | :--: |
 | ST. Xavier's Sr. Sec. School, Jaipur | 2021 | Class 10 | 96% |
 | St. Xavier's Sr. Sec. School, Jaipur | 2023 | Class 12 | 92% |
 | Malaviya National Institute of Technology, Jaipur | 2027 | BTech CSE | 8.5 CGPA |
